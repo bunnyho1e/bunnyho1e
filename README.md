@@ -15,3 +15,5 @@ Building tools, AI prompts, and workflows for **red teaming, penetration testing
 - **Automation** — scripts and workflows that cut repetitive work and connect the tools.
 
 From reconnaissance to reporting: sharper testing, repeatable workflows, and findings backed by evidence.
+
+[Explore repositories →](https://github.com/bunnyho1e?tab=repositories)
