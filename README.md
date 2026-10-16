@@ -1,5 +1,3 @@
-# bunnyho1e
-
 ### Think like an attacker. Build like an engineer. Automate the rest.
 
 Building tools, AI prompts, and workflows for **red teaming, penetration testing, and offensive security research**.
