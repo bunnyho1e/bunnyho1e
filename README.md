@@ -11,6 +11,7 @@ Building tools, AI prompts, and workflows for **red teaming, penetration testing
 
 - **Red Teaming** — adversary simulation, attack path research, and practical tooling.
 - **Pentesting** — web, API, mobile, and identity security.
+- **Reconnaissance** — asset discovery, attack surface mapping, and target prioritization.
 - **AI & Agents** — prompts, agents, and integrations that support security testing.
 - **Automation** — scripts and workflows that cut repetitive work and connect the tools.
 
