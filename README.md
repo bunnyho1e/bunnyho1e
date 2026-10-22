@@ -17,4 +17,9 @@ Building tools, AI prompts, and workflows for **red teaming, penetration testing
 
 From reconnaissance to reporting: sharper testing, repeatable workflows, and findings backed by evidence.
 
+## Tool Collections
+
+- [RedTeaming](https://github.com/bunnyho1e/RedTeaming) — red team and penetration testing tools.
+- [BlueTeaming](https://github.com/bunnyho1e/BlueTeaming) — detection engineering, incident response, and defensive tooling.
+
 [Explore repositories →](https://github.com/bunnyho1e?tab=repositories)
